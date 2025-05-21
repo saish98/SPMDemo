@@ -1,0 +1,15 @@
+{
+  "originHash" : "470c02eeaa210f01fb6f6c1f68cab317b9961552330542ffa07d29848e259387",
+  "pins" : [
+    {
+      "identity" : "sclabel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/saish98/SCLabel",
+      "state" : {
+        "revision" : "63bc6c11081fbcd3f9ee389084eb4be64e60d7d9",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
